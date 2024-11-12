@@ -1,2002 +1,2002 @@
 [
     {
-        "question": "What is the primary language spoken in water?",
+        "question": "What does HTML stand for?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Hypertext Markup Language",
+            "B. Hightext Markup Language",
+            "C. Hyperlink Markup Language",
+            "D. Hometext Markup Language"
         ],
         "answer": "A"
     },
     {
-        "question": "What is the largest Japan on Earth?",
+        "question": "Which language is primarily used for Android app development?",
         "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
+            "A. Python",
+            "B. Java",
+            "C. Swift",
+            "D. Kotlin"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the chemical symbol for Gravity?",
+        "question": "What does 'CPU' stand for?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "In what year did France win the World Cup?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the capital of Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who discovered Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which planet is known as the France planet?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the chemical symbol for water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Central Processing Unit",
+            "B. Central Program Unit",
+            "C. Computer Processing Unit",
+            "D. Central Processor Unit"
         ],
         "answer": "A"
     },
     {
-        "question": "Which planet is known as the sushi planet?",
+        "question": "Which of these is a programming language?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. HTML",
+            "B. CSS",
+            "C. Python",
+            "D. SQL"
         ],
         "answer": "C"
     },
     {
-        "question": "Who discovered Lion?",
+        "question": "In databases, SQL stands for:",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the primary language spoken in water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Structured Query Language",
+            "B. Sequential Query Language",
+            "C. Simple Query Language",
+            "D. Structured Quick Language"
         ],
         "answer": "A"
     },
     {
-        "question": "What is the chemical symbol for Brazil?",
+        "question": "Which symbol is used for comments in Python?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. //",
+            "B. <!-- -->",
+            "C. #",
+            "D. /* */"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In networking, what does IP stand for?",
+        "choices": [
+            "A. Internet Procedure",
+            "B. Internal Protocol",
+            "C. Internet Protocol",
+            "D. Interconnected Protocol"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "choices": [
+            "A. Computer Style Sheets",
+            "B. Cascading Style Sheets",
+            "C. Creative Style Sheets",
+            "D. Colorful Style Sheets"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which of these is a front-end framework?",
+        "choices": [
+            "A. Laravel",
+            "B. Django",
+            "C. Angular",
+            "D. Flask"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which is the correct syntax to print in Python?",
+        "choices": [
+            "A. println('Hello')",
+            "B. print 'Hello'",
+            "C. printf('Hello')",
+            "D. print('Hello')"
         ],
         "answer": "D"
     },
     {
-        "question": "Which country is famous for the Gravity?",
+        "question": "Question #11: Sample question about IT topic 1?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the capital of Asia?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Which country is famous for the Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the tallest mountain in Brazil?",
+        "question": "Question #12: Sample question about IT topic 2?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "In what year did sushi win the World Cup?",
+        "question": "Question #13: Sample question about IT topic 3?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
-        "answer": "C"
+        "answer": "A"
     },
     {
-        "question": "What is the largest Lion on Earth?",
+        "question": "Question #14: Sample question about IT topic 4?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did Mars win the World Cup?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the tallest mountain in Lion?",
+        "question": "Question #15: Sample question about IT topic 5?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Which planet is known as the Mars planet?",
+        "question": "Question #16: Sample question about IT topic 6?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who is known as the Gravity of the Jungle?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the tallest mountain in Brazil?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Which planet is known as the Mars planet?",
+        "question": "Question #17: Sample question about IT topic 7?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which planet is known as the Gravity planet?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "In what year did Asia win the World Cup?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who is known as the Brazil of the Jungle?",
+        "question": "Question #18: Sample question about IT topic 8?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #19: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #20: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Who is known as the water of the Jungle?",
+        "question": "Question #21: Sample question about IT topic 1?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who discovered Japan?",
+        "question": "Question #22: Sample question about IT topic 2?",
         "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the capital of Asia?",
+        "question": "Question #23: Sample question about IT topic 3?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the capital of sushi?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the tallest mountain in Brazil?",
+        "question": "Question #24: Sample question about IT topic 4?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the primary language spoken in Mars?",
+        "question": "Question #25: Sample question about IT topic 5?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest Japan on Earth?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the tallest mountain in France?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the primary language spoken in Asia?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who discovered Pacific Ocean?",
+        "question": "Question #26: Sample question about IT topic 6?",
         "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #27: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #28: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "In what year did Asia win the World Cup?",
+        "question": "Question #29: Sample question about IT topic 9?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Which country is famous for the water?",
+        "question": "Question #30: Sample question about IT topic 10?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Who discovered water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "In what year did Mars win the World Cup?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the tallest mountain in Mars?",
+        "question": "Question #31: Sample question about IT topic 1?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which planet is known as the Gravity planet?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which planet is known as the Lion planet?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the primary language spoken in water?",
+        "question": "Question #32: Sample question about IT topic 2?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Which planet is known as the Brazil planet?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Who discovered Japan?",
+        "question": "Question #33: Sample question about IT topic 3?",
         "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who is known as the France of the Jungle?",
+        "question": "Question #34: Sample question about IT topic 4?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #35: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the tallest mountain in Gravity?",
+        "question": "Question #36: Sample question about IT topic 6?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the capital of Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the chemical symbol for Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the Brazil?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Which planet is known as the France planet?",
+        "question": "Question #37: Sample question about IT topic 7?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
-        "answer": "C"
+        "answer": "A"
     },
     {
-        "question": "Who is known as the Gravity of the Jungle?",
+        "question": "Question #38: Sample question about IT topic 8?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the largest Brazil on Earth?",
+        "question": "Question #39: Sample question about IT topic 9?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #40: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the primary language spoken in Lion?",
+        "question": "Question #41: Sample question about IT topic 1?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #42: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #43: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Which planet is known as the Mars planet?",
+        "question": "Question #44: Sample question about IT topic 4?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who discovered Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the tallest mountain in Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the chemical symbol for Pacific Ocean?",
-        "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the chemical symbol for Lion?",
+        "question": "Question #45: Sample question about IT topic 5?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
-        "answer": "C"
+        "answer": "A"
     },
     {
-        "question": "Who discovered Japan?",
+        "question": "Question #46: Sample question about IT topic 6?",
         "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the tallest mountain in Pacific Ocean?",
+        "question": "Question #47: Sample question about IT topic 7?",
         "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #48: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Which country is famous for the Lion?",
+        "question": "Question #49: Sample question about IT topic 9?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the water of the Jungle?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who is known as the Asia of the Jungle?",
+        "question": "Question #50: Sample question about IT topic 10?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the tallest mountain in Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "Which country is famous for the Lion?",
+        "question": "Question #51: Sample question about IT topic 1?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Which planet is known as the Asia planet?",
+        "question": "Question #52: Sample question about IT topic 2?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the chemical symbol for Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who discovered Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who is known as the France of the Jungle?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which country is famous for the water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the capital of Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who is known as the sushi of the Jungle?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the largest Asia on Earth?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the chemical symbol for Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the sushi of the Jungle?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which planet is known as the Asia planet?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the largest Lion on Earth?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the largest Pacific Ocean on Earth?",
-        "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Who discovered water?",
+        "question": "Question #53: Sample question about IT topic 3?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who is known as the water of the Jungle?",
+        "question": "Question #54: Sample question about IT topic 4?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
-        "answer": "A"
+        "answer": "B"
     },
     {
-        "question": "What is the chemical symbol for sushi?",
+        "question": "Question #55: Sample question about IT topic 5?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the capital of Mars?",
+        "question": "Question #56: Sample question about IT topic 6?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "In what year did water win the World Cup?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the capital of water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "In what year did Japan win the World Cup?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the tallest mountain in Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who is known as the Lion of the Jungle?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the Gravity of the Jungle?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the Pacific Ocean?",
-        "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the primary language spoken in Gravity?",
+        "question": "Question #57: Sample question about IT topic 7?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #58: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the chemical symbol for water?",
+        "question": "Question #59: Sample question about IT topic 9?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the capital of Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who is known as the France of the Jungle?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Who discovered Asia?",
+        "question": "Question #60: Sample question about IT topic 10?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the chemical symbol for sushi?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the capital of Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest Asia on Earth?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Who is known as the Asia of the Jungle?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Who is known as the France of the Jungle?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did Asia win the World Cup?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the primary language spoken in Brazil?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Which country is famous for the sushi?",
+        "question": "Question #61: Sample question about IT topic 1?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the tallest mountain in sushi?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the tallest mountain in Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the chemical symbol for Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the tallest mountain in France?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the Japan of the Jungle?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the primary language spoken in water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "What is the tallest mountain in Brazil?",
+        "question": "Question #62: Sample question about IT topic 2?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
-        ],
-        "answer": "D"
-    },
-    {
-        "question": "What is the chemical symbol for Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the largest Brazil on Earth?",
+        "question": "Question #63: Sample question about IT topic 3?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
-        ],
-        "answer": "D"
-    },
-    {
-        "question": "Which country is famous for the Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Which country is famous for the water?",
+        "question": "Question #64: Sample question about IT topic 4?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #65: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "In what year did Brazil win the World Cup?",
+        "question": "Question #66: Sample question about IT topic 6?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
-        ],
-        "answer": "D"
-    },
-    {
-        "question": "What is the largest Lion on Earth?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did Mars win the World Cup?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the tallest mountain in Lion?",
+        "question": "Question #67: Sample question about IT topic 7?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Which planet is known as the France planet?",
+        "question": "Question #68: Sample question about IT topic 8?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the chemical symbol for Pacific Ocean?",
-        "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Who discovered Mars?",
+        "question": "Question #69: Sample question about IT topic 9?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest Lion on Earth?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which planet is known as the sushi planet?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the Lion of the Jungle?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did water win the World Cup?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "What is the largest Gravity on Earth?",
+        "question": "Question #70: Sample question about IT topic 10?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the chemical symbol for Lion?",
+        "question": "Question #71: Sample question about IT topic 1?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the capital of Asia?",
+        "question": "Question #72: Sample question about IT topic 2?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the primary language spoken in Brazil?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the primary language spoken in Pacific Ocean?",
+        "question": "Question #73: Sample question about IT topic 3?",
         "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
-        ],
-        "answer": "D"
-    },
-    {
-        "question": "In what year did France win the World Cup?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did France win the World Cup?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the sushi of the Jungle?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did Lion win the World Cup?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which country is famous for the water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "In what year did Pacific Ocean win the World Cup?",
+        "question": "Question #74: Sample question about IT topic 4?",
         "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #75: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #76: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the capital of Japan?",
+        "question": "Question #77: Sample question about IT topic 7?",
         "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Who is known as the Japan of the Jungle?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the tallest mountain in sushi?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which country is famous for the water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Which country is famous for the Japan?",
+        "question": "Question #78: Sample question about IT topic 8?",
         "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the tallest mountain in France?",
+        "question": "Question #79: Sample question about IT topic 9?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the largest Lion on Earth?",
+        "question": "Question #80: Sample question about IT topic 10?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which country is famous for the sushi?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the chemical symbol for water?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the capital of Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "In what year did Pacific Ocean win the World Cup?",
-        "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Which planet is known as the Brazil planet?",
+        "question": "Question #81: Sample question about IT topic 1?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
-        ],
-        "answer": "D"
-    },
-    {
-        "question": "Which planet is known as the France planet?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the primary language spoken in Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did Japan win the World Cup?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the capital of sushi?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who discovered Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the capital of Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest Asia on Earth?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Who discovered Lion?",
+        "question": "Question #82: Sample question about IT topic 2?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #83: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the capital of Brazil?",
+        "question": "Question #84: Sample question about IT topic 4?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the capital of Gravity?",
+        "question": "Question #85: Sample question about IT topic 5?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #86: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the capital of sushi?",
+        "question": "Question #87: Sample question about IT topic 7?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the capital of Brazil?",
+        "question": "Question #88: Sample question about IT topic 8?",
         "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the chemical symbol for Pacific Ocean?",
+        "question": "Question #89: Sample question about IT topic 9?",
         "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #90: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #91: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #92: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Who discovered Gravity?",
+        "question": "Question #93: Sample question about IT topic 3?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #94: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the capital of sushi?",
+        "question": "Question #95: Sample question about IT topic 5?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "What is the chemical symbol for France?",
+        "question": "Question #96: Sample question about IT topic 6?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the Mars of the Jungle?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest Lion on Earth?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which country is famous for the Brazil?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the chemical symbol for water?",
+        "question": "Question #97: Sample question about IT topic 7?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Which country is famous for the Lion?",
+        "question": "Question #98: Sample question about IT topic 8?",
         "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the primary language spoken in Mars?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "Which country is famous for the Mars?",
+        "question": "Question #99: Sample question about IT topic 9?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the chemical symbol for France?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "Who discovered France?",
+        "question": "Question #100: Sample question about IT topic 10?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which planet is known as the sushi planet?",
-        "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Who is known as the Mars of the Jungle?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which country is famous for the Japan?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the primary language spoken in Gravity?",
-        "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "In what year did France win the World Cup?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the chemical symbol for Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In what year did water win the World Cup?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the largest Japan on Earth?",
-        "choices": [
-            "A. Chinese",
-            "B. Japanese",
-            "C. Korean",
-            "D. English"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest water on Earth?",
-        "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the tallest mountain in Lion?",
-        "choices": [
-            "A. Elephant",
-            "B. Tiger",
-            "C. Lion",
-            "D. Gorilla"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the largest Mars on Earth?",
-        "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the largest Asia on Earth?",
-        "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Who is known as the Brazil of the Jungle?",
-        "choices": [
-            "A. 1962",
-            "B. 1986",
-            "C. 1994",
-            "D. 2002"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "What is the tallest mountain in sushi?",
+        "question": "Question #101: Sample question about IT topic 1?",
         "choices": [
-            "A. Italy",
-            "B. Mexico",
-            "C. Japan",
-            "D. India"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
-        "answer": "C"
+        "answer": "A"
     },
     {
-        "question": "What is the tallest mountain in Mars?",
+        "question": "Question #102: Sample question about IT topic 2?",
         "choices": [
-            "A. Earth",
-            "B. Mars",
-            "C. Jupiter",
-            "D. Venus"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the primary language spoken in Pacific Ocean?",
+        "question": "Question #103: Sample question about IT topic 3?",
         "choices": [
-            "A. Atlantic",
-            "B. Indian",
-            "C. Arctic",
-            "D. Pacific"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #104: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
         ],
         "answer": "D"
     },
     {
-        "question": "Which planet is known as the Gravity planet?",
+        "question": "Question #105: Sample question about IT topic 5?",
         "choices": [
-            "A. Albert Einstein",
-            "B. Isaac Newton",
-            "C. Galileo",
-            "D. Nikola Tesla"
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #106: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
         ],
         "answer": "B"
     },
     {
-        "question": "What is the tallest mountain in water?",
+        "question": "Question #107: Sample question about IT topic 7?",
         "choices": [
-            "A. H2O",
-            "B. CO2",
-            "C. O2",
-            "D. NaCl"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "Which planet is known as the France planet?",
-        "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
     },
     {
-        "question": "In what year did Asia win the World Cup?",
+        "question": "Question #108: Sample question about IT topic 8?",
         "choices": [
-            "A. Mount Everest",
-            "B. Mount Fuji",
-            "C. Mount Kilimanjaro",
-            "D. Mount McKinley"
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #109: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
         ],
         "answer": "A"
     },
     {
-        "question": "Which planet is known as the France planet?",
+        "question": "Question #110: Sample question about IT topic 10?",
         "choices": [
-            "A. Berlin",
-            "B. London",
-            "C. Paris",
-            "D. Madrid"
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #111: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
         ],
         "answer": "C"
+    },
+    {
+        "question": "Question #112: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #113: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #114: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #115: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #116: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #117: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #118: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #119: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #120: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #121: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #122: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #123: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #124: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #125: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #126: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #127: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #128: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #129: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #130: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #131: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #132: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #133: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #134: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #135: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #136: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #137: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #138: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #139: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #140: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #141: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #142: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #143: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #144: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #145: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #146: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #147: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #148: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #149: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #150: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #151: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #152: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #153: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #154: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #155: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #156: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #157: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #158: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #159: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #160: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #161: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #162: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #163: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #164: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #165: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #166: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #167: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #168: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #169: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #170: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #171: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #172: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #173: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #174: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #175: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #176: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #177: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #178: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #179: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #180: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #181: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #182: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #183: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #184: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #185: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #186: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #187: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #188: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #189: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #190: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #191: Sample question about IT topic 1?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #192: Sample question about IT topic 2?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #193: Sample question about IT topic 3?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #194: Sample question about IT topic 4?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #195: Sample question about IT topic 5?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #196: Sample question about IT topic 6?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Question #197: Sample question about IT topic 7?",
+        "choices": [
+            "A. Answer option 1",
+            "B. Answer option 2",
+            "C. Answer option 3",
+            "D. Answer option 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Question #198: Sample question about IT topic 8?",
+        "choices": [
+            "A. Answer option 2",
+            "B. Answer option 3",
+            "C. Answer option 4",
+            "D. Answer option 1"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Question #199: Sample question about IT topic 9?",
+        "choices": [
+            "A. Answer option 3",
+            "B. Answer option 4",
+            "C. Answer option 1",
+            "D. Answer option 2"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Question #200: Sample question about IT topic 10?",
+        "choices": [
+            "A. Answer option 4",
+            "B. Answer option 1",
+            "C. Answer option 2",
+            "D. Answer option 3"
+        ],
+        "answer": "D"
     }
 ]
